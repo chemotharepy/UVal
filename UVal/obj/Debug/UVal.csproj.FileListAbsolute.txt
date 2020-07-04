@@ -1,0 +1,10 @@
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\bin\Debug\UVal.exe.config
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\bin\Debug\UVal.exe
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\bin\Debug\UVal.pdb
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.csprojAssemblyReference.cache
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.Form1.resources
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.Properties.Resources.resources
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.csproj.GenerateResource.cache
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.csproj.CoreCompileInputs.cache
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.exe
+C:\Users\Swapnil Sharma\Desktop\myopia\UVal\UVal\obj\Debug\UVal.pdb
